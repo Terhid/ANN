@@ -1,0 +1,6 @@
+csvwrite('X2.csv',X2)
+csvwrite('T1.csv',T1)
+csvwrite('T2.csv',T2)
+csvwrite('T3.csv',T3)
+csvwrite('T4.csv',T4)
+csvwrite('T5.csv',T5)
